@@ -178,29 +178,6 @@ npm test
 
 ---
 
-## 🎬 Hackathon Demonstration Guide
-
-Follow this sequence when demonstrating WeatherGPT:
-
-1. **Landing Screen**: Show the minimal landing page with the core philosophy: *"Weather APIs provide the facts. WeatherGPT provides the interpretation."*
-2. **Location Selection**: Click a popular city (*e.g., "London"*) or use the GPS button to load real-time conditions.
-3. **Current Weather & Metrics**: Point out the primary temperature, feels-like, rain probability, precipitation, humidity, wind, UV index, and authoritative source badge (`Primary API`).
-4. **Next 3-Hour Trend**: Demonstrate the dedicated 3-hour card highlighting the immediate rain trend.
-5. **24-Hour Forecast Timeline**: Scroll horizontally through the upcoming 24 hours displaying hourly rain bars and wind speeds.
-6. **AI Assistant & Quick Actions**:
-   - Click the quick action chip: **"Rain in next 3 hours"** $\rightarrow$ Observe the synthesized trend summary without emojis and transparent weather factors.
-   - Click **"Travel conditions"** $\rightarrow$ Notice the weather-based risk guidance avoiding absolute safety guarantees.
-   - Type an ambiguous question: *"Will it rain later?"* $\rightarrow$ Observe WeatherGPT asking for clarification (*"What time are you planning to go out?"*).
-7. **Proactive Alerts & Thresholds**:
-   - Click the bell icon in the header $\rightarrow$ Adjust the Rain Alert or Heat Advisory slider.
-   - Toggle browser notifications to view the opt-in permission handling.
-8. **UI Flexibility**:
-   - Switch units between **°C** and **°F**.
-   - Toggle between **Dark Mode** and **Light Mode** using the theme icon.
-   - Resize the window to verify responsive layout adaptation between mobile single-column, tablet two-column, and desktop side-by-side dashboard.
-
----
-
 ## 🔮 Future Enhancements
 
 - Nearby shelter and umbrella store discovery integrations.
@@ -212,4 +189,4 @@ Follow this sequence when demonstrating WeatherGPT:
 
 ## 📄 License
 
-MIT License. Developed for hackathons and production-ready deployments.
+MIT License.
