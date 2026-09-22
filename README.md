@@ -178,15 +178,6 @@ npm test
 
 ---
 
-## 🔮 Future Enhancements
-
-- Nearby shelter and umbrella store discovery integrations.
-- Multi-location saved bookmarks for users monitoring family in different cities.
-- Native mobile push notification service worker (PWA).
-- Historical weather trend comparisons (e.g., "3°C warmer than yesterday").
-
----
-
 ## 📄 License
 
 MIT License.
